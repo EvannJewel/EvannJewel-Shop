@@ -1,0 +1,17 @@
+h1 {
+	color: gold;
+	background-color: black;
+}
+img {
+	padding: 5px;
+	margin: 5px;
+}
+button a {
+	margin: 15px;
+	padding: 15px;
+}
+b {
+	font-size: large;
+	background-color: black;
+	color: gold;
+}
